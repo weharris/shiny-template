@@ -1,18 +1,19 @@
-##################################
-# Biodiversity in National Parks #
-# by Alessio Benedetti           #
-# server.R file                  #
-##################################
+# Header ####
+# what: Shiny app template
+# who: Ed Harris
+# when: 2025-10-24
 
+# Contents ####
+# 1. Libraries
+# 2. Support Functions
+# 3. Data Wrangling
+# 4. Server Logic 
+
+# 1. Libraries ####
 library(shiny)
 library(tidyverse)
-library(leaflet.extras)
-library(rvest)
 
-#####################
-# SUPPORT FUNCTIONS #
-#####################
-
+# 2. Support Functions ####
 # function to retrieve a park image from the park wiki page
 park_image <- function (park_Name){
   
