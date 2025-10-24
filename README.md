@@ -12,7 +12,7 @@
 
 **Features**
 
--   The application layout is made with [**shinydashboard**](https://rstudio.github.io/shinydashboard/), that semplifies the creation of dashboards
+-   The application layout is made with [**shinydashboard**](https://rstudio.github.io/shinydashboard/), that simplifies the creation of dashboards
 
 -   The maps are realized with the [**leaflet**](https://rstudio.github.io/leaflet/) package, with an implementation of the species [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map)
 
