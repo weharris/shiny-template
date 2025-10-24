@@ -8,7 +8,7 @@
 
 -   **RStudio Cloud project:** [https://rstudio.cloud/project/243079 ](https://rstudio.cloud/project/243079)
 -   **Shinyapps:** <https://abenedetti.shinyapps.io/bioNPS/>
--   **Github:** [https://github.com/abenedetti/bioNPS/ ](https://github.com/weharris/shiny-template/)
+-   **Github:** [https://github.com/weharris/shiny-template/](https://github.com/weharris/shiny-template/)
 
 **Features**
 
@@ -23,3 +23,5 @@
 -   Integrated with the [google analytics.js library](https://shiny.rstudio.com/articles/google-analytics.html), to measure how users interact with the app
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" alt="Creative Commons License" style="border-width:0"/></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+* Inspired by [https://github.com/abenedetti/bioNPS/](https://github.com/abenedetti/bioNPS/)
