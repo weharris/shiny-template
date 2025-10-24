@@ -23,7 +23,8 @@ park_image <- function (park_Name){
   park_Img <- read_html(park_WikiUrl)
   park_Img <- park_Img %>% html_nodes("img")
   
-  list_park_Img <- (grepl("This is a featured article", park_Img) | grepl("Question_book-new.svg.png", park_Img) | grepl("Listen to this article", park_Img) | grepl("This is a good article", park_Img))
+  list_park_Img <- (grepl("This is a featured article", park_Img) | grepl("Question_book-new.svg.png",
+  park_Img) | grepl("Listen to this article", park_Img) | grepl("This is a good article", park_Img))
   park_Img <- park_Img[min(which(list_park_Img == FALSE))]
   
   park_Img <- gsub("\"","'",park_Img)
