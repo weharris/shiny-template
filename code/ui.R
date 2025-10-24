@@ -3,19 +3,15 @@
 # who: Ed Harris
 # when: 2025-10-24
 
-##################################
+# Contents ####
+# 1. Libraries
+# 2. Load UI
 
+# 1. Libraries ####
 library(leaflet)
 library(shinydashboard)
-library(collapsibleTree)
-library(shinycssloaders)
-library(DT)
-library(tigris)
 
-###########
-# LOAD UI #
-###########
-
+# 2. Load UI ####
 shinyUI(fluidPage(
   
   # load custom stylesheet
