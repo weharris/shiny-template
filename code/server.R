@@ -1,5 +1,5 @@
 # Header ####
-# what: Shiny app template
+# what: Shiny app template server.R file
 # who: Ed Harris
 # when: 2025-10-24
 

@@ -1,7 +1,8 @@
-##################################
-# Biodiversity in National Parks #
-# by Alessio Benedetti           #
-# ui.R file                      #
+# Header ####
+# what: Shiny app template ui.R file
+# who: Ed Harris
+# when: 2025-10-24
+
 ##################################
 
 library(leaflet)
