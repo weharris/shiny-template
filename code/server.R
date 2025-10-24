@@ -92,9 +92,7 @@ park_card <- function (park_Name, park_Code, park_State, park_Acres, park_Latitu
   
 }
 
-##################
-# DATA WRANGLING #
-##################
+# 3. Data Wrangling ####
 
 # preprocessed parks file:
 #   3 records were multi states parks, only was was attributed
@@ -143,9 +141,7 @@ speciesCategoriesByState <- species %>% group_by(Category, ParkState) %>% tally(
 states <- states(cb=T)
 speciesStates <- sort(as.character(unique(speciesCategoriesByState$ParkState[complete.cases(speciesCategoriesByState)]))) 
 
-################
-# SERVER LOGIC #
-################
+# 4. Server Logic ####
 
 shinyServer(function(input, output) {
    
