@@ -8,7 +8,7 @@
 
 -   **RStudio Cloud project:** [https://rstudio.cloud/project/243079 ](https://rstudio.cloud/project/243079)
 -   **Shinyapps:** <https://abenedetti.shinyapps.io/bioNPS/>
--   **Github:** [https://github.com/weharris/shiny-template/](https://github.com/weharris/shiny-template/)
+-   **Github:** [https://github.com/weharris/shiny-template/ ](https://github.com/weharris/shiny-template/)
 
 **Features**
 
