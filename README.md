@@ -1,6 +1,6 @@
 ## Shiny Template Repo
 
-*Shiny Template* is an app that let you visualize biodiversity data [Kaggle biodiversity dataset](https://www.kaggle.com/nationalparkservice/park-biodiversity). By using the National Park Service database of animal and plant species identified in individual national parks, the application offers a graphical representation of the data with maps and charts.
+The *Shiny Template* is an app that let you visualize biodiversity data [Kaggle biodiversity dataset](https://www.kaggle.com/nationalparkservice/park-biodiversity). By using the National Park Service database of animal and plant species identified in individual national parks, the application offers a graphical representation of the data with maps and charts.
 
 ![bioNPS\|690x369](code/bioNPS.png)
 
