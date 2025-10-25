@@ -24,4 +24,4 @@ The *Shiny Template* is an app that let you visualize biodiversity data [Kaggle
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" alt="Creative Commons License" style="border-width:0"/></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-* Inspired by [https://github.com/abenedetti/bioNPS/](https://github.com/abenedetti/bioNPS/)
+* Inspired by [This Shiny app](https://abenedetti.shinyapps.io/bioNPS/) :: [https://github.com/abenedetti/bioNPS/](https://github.com/abenedetti/bioNPS/)
